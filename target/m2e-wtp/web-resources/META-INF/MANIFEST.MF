@@ -1,10 +1,10 @@
 Manifest-Version: 1.0
 Implementation-Vendor: Pivotal Software, Inc.
-Implementation-Title: App-spring-Teste
-Implementation-Version: 0.0.1
-Implementation-Vendor-Id: org.unicesumar
+Implementation-Title: demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: org.test
 Build-Jdk: 1.7.0_40
 Built-By: Cristiano
 Created-By: Maven Integration for Eclipse
-Main-Class: demo.AppSpringTesteApplication
+Main-Class: demo.DemoApplication
 
